@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Downtime Industries
+description: A mostly fictional company for helping you know what to do and not do when writing software. 
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://downtime.industries
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template

@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://downtime.industries
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Website Repo: https://github.com/downtime-industries/downtime-industries-website
 
 plugins:
   - jekyll-seo-tag

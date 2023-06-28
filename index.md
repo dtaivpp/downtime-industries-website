@@ -1,6 +1,10 @@
 ---
 title: Downtime Industries
 layout: home
+
+description: Welcome to `Downtime Industries` a mostly fictional company that will help you know what to do and not do when writing software.
+
+meta_keywords: Downtime industries, code, software development, software engineering
 ---
 
 Welcome to `Downtime Industries` a mostly fictional company that will help you know what to do and not do when writing software. We have several different repos and projects for you to look at. Feel free to scroll and contribute as you like!

@@ -6,3 +6,8 @@ url: https://downtime.industries
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+plugins:
+  - jekyll-seo-tag
+
+color_scheme: dark

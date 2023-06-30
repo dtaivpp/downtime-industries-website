@@ -4,14 +4,17 @@ This repo is used to host the Downtime Industries website. It's based on the jus
 
 
 ## Testing Locally
-
+Installing pre-requisites
 ```
 brew install ruby
 gem install bundler jekyll
 bundler install 
-bundler exec jekyll serve
 ```
 
+Running locally
+```
+bundler exec jekyll serve
+```
 
 
 # just-the-docs-template

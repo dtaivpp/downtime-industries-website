@@ -1,3 +1,18 @@
+# Downtime Industries Website
+
+This repo is used to host the Downtime Industries website. It's based on the just-the-docs website. Feel free to contribute posts in the appropriate catagories.
+
+
+## Testing Locally
+
+```
+brew install bundler
+bundler install 
+bundler exec jekyll serve
+```
+
+
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:

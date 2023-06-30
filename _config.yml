@@ -1,6 +1,6 @@
 title: Downtime Industries
 description: A mostly fictional company for helping you know what to do and not do when writing software. 
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 
 url: https://downtime.industries
 
@@ -9,5 +9,6 @@ aux_links:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 color_scheme: dark

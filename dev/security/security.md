@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Search
+title: Security
 
 nav_order: 1
 parent: Dev
@@ -11,4 +11,4 @@ description: Downtime Industries search category for talking about search engine
 meta_keywords: Downtime Industries, search relevance, search engineering, OpenSearch, vector database
 ---
 
-# SEARCH
+# SECURITY
